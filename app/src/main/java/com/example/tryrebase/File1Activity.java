@@ -11,4 +11,6 @@ public class File1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_file1);
     }
+
+    // int a =1;
 }
